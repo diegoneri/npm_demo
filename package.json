@@ -1,0 +1,22 @@
+{
+  "name": "npm_demo",
+  "version": "1.0.0",
+  "description": "npm demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "alert('Ok');"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/diegoneri/npm_demo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/diegoneri/npm_demo/issues"
+  },
+  "homepage": "https://github.com/diegoneri/npm_demo#readme",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
+}
